@@ -1,0 +1,5 @@
+<linker>
+	<assembly fullname="Cinemachine">
+		<type fullname="Cinemachine.CinemachineTargetGroup/Target" preserve="nothing" serialized="true"/>
+	</assembly>
+</linker>
